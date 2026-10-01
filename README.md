@@ -29,10 +29,10 @@ const rishabhSahu = {
   title: "Full Stack Developer | AI/ML Enthusiast",
 
   stack: {
-    languages: ["JavaScript", "Java", "Python"],
+    languages: ["JavaScript", "Python"],
     frontend: ["React", "Vite", "Tailwind CSS", "React Native"],
     backend: ["Node.js", "Express.js", "Socket.IO"],
-    database: ["Supabase"],
+    database: ["MongoDB" , "Supabase"],
     cloud: ["Vercel", "Railway"],
     ai: ["Generative AI", "AI/ML"],
     tools: ["Git", "GitHub"]
@@ -40,14 +40,14 @@ const rishabhSahu = {
 
   launchedProjects: [
     "Nexora",
-    "AURA"
+    "AURA - Rishabh's PortFoilio"
   ],
 
   certifications: [],
 
   status: "B.Tech AIML — 3rd Year",
 
-  openTo: "Full-time software development opportunities"
+  openTo: "Full-time/Part-time software development opportunities"
 };
 ```
 
@@ -66,7 +66,7 @@ Nexora is a Discord-inspired communication platform focused on a premium, origin
 | Frontend | React, Vite, JavaScript/JSX, Tailwind CSS |
 | State & UI | Redux, React Router DOM, Framer Motion, Lucide React |
 | Backend | Node.js, Express.js, Socket.IO |
-| Database / Auth | Supabase |
+| Database / Auth / Redis |
 | Media / APIs | Multer, REST APIs |
 | Development | Git, GitHub |
 
@@ -74,7 +74,7 @@ Nexora is a Discord-inspired communication platform focused on a premium, origin
 
 ---
 
-### 02. AURA — AI/ML Developer Portfolio
+### 02. AURA — Rishabh's Developer Portfolio
 
 AURA is a premium dark developer portfolio built around an AI/ML identity, interactive 3D visuals, and a React-based modern frontend experience.
 
