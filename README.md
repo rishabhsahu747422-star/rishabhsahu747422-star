@@ -25,7 +25,7 @@
 ## 👨‍💻 Who I Am
 
 ```ts
-const rishabhSahu = {
+const RishabhSahu = {
   title: "Full Stack Developer | AI/ML Enthusiast",
 
   stack: {
