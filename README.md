@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Rishabh%20Sahu&fontAlign=50&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%2FML%20Enthusiast&descAlign=50&descAlignY=60&animation=twinkling&color=0:7dd3fc,100:7dd3fc" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=7DD3FC&center=true&vCenter=true&width=850&lines=Building+full-stack+web+experiences;Learning+AI%2FML+and+Generative+AI;Crafting+Nexora+%E2%80%94+a+real-time+communication+platform;Building+premium+developer+experiences+with+React+%26+JavaScript" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=7DD3FC&center=true&vCenter=true&width=850&lines=Building+full-stack+web+experiences;Learning+DevOps+and+Generative+AI;Crafting+Nexora+%E2%80%94+a+real-time+communication+platform;Building+premium+developer+experiences+with+React+%26+JavaScript" alt="Typing SVG" />
 </a>
 
 <br/>
