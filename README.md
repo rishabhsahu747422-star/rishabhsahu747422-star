@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Rishabh%20Sahu&fontAlign=50&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%2FML%20Enthusiast&descAlign=50&descAlignY=60&animation=twinkling&color=0:7dd3fc,100:7dd3fc" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=7DD3FC&center=true&vCenter=true&width=850&lines=Building+full-stack+web+experiences;Learning+DevOps+and+Generative+AI;Crafting+Nexora+%E2%80%94+a+real-time+communication+platform;Building+premium+developer+experiences+with+React+%26+JavaScript" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=7DD3FC&center=true&vCenter=true&width=850&lines=Building+full-stack+web+experiences;Learning+AI%2FML+and+Generative+AI;Crafting+Nexora+%E2%80%94+a+real-time+communication+platform;Building+premium+developer+experiences+with+React+%26+JavaScript" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -25,14 +25,14 @@
 ## 👨‍💻 Who I Am
 
 ```ts
-const RishabhSahu = {
+const rishabhSahu = {
   title: "Full Stack Developer | AI/ML Enthusiast",
 
   stack: {
-    languages: ["JavaScript", "Python"],
+    languages: ["JavaScript", "Java", "Python"],
     frontend: ["React", "Vite", "Tailwind CSS", "React Native"],
     backend: ["Node.js", "Express.js", "Socket.IO"],
-    database: ["MongoDB" , "Supabase"],
+    database: ["Supabase"],
     cloud: ["Vercel", "Railway"],
     ai: ["Generative AI", "AI/ML"],
     tools: ["Git", "GitHub"]
@@ -40,14 +40,14 @@ const RishabhSahu = {
 
   launchedProjects: [
     "Nexora",
-    "AURA - Rishabh's PortFoilio"
+    "AURA"
   ],
 
   certifications: [],
 
   status: "B.Tech AIML — 3rd Year",
 
-  openTo: "Full-time/Part-time software development opportunities"
+  openTo: "Full-time software development opportunities"
 };
 ```
 
@@ -66,7 +66,7 @@ Nexora is a Discord-inspired communication platform focused on a premium, origin
 | Frontend | React, Vite, JavaScript/JSX, Tailwind CSS |
 | State & UI | Redux, React Router DOM, Framer Motion, Lucide React |
 | Backend | Node.js, Express.js, Socket.IO |
-| Database / Auth / Redis |
+| Database / Auth | Supabase |
 | Media / APIs | Multer, REST APIs |
 | Development | Git, GitHub |
 
@@ -74,7 +74,7 @@ Nexora is a Discord-inspired communication platform focused on a premium, origin
 
 ---
 
-### 02. AURA — Rishabh's Developer Portfolio
+### 02. AURA — AI/ML Developer Portfolio
 
 AURA is a premium dark developer portfolio built around an AI/ML identity, interactive 3D visuals, and a React-based modern frontend experience.
 
@@ -97,45 +97,42 @@ AURA is a premium dark developer portfolio built around an AI/ML identity, inter
 
 ## 🛠️ Tech Stack
 
-### Languages
-<p>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript"/></a>
-  <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python" alt="Python"/></a>
-</p>
+<div align="center">
 
-### Frontend
-<p>
-  <a href="https://react.dev/"><img src="https://skillicons.dev/icons?i=react" alt="React"/></a>
-  <a href="https://vite.dev/"><img src="https://skillicons.dev/icons?i=vite" alt="Vite"/></a>
-  <a href="https://tailwindcss.com/"><img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS"/></a>
-  <a href="https://reactnative.dev/"><img src="https://skillicons.dev/icons?i=react" alt="React Native"/></a>
-</p>
+<table>
+<tr>
+<td width="34%" align="center" valign="middle">
 
-### Backend / Infrastructure
-<p>
-  <a href="https://nodejs.org/"><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js"/></a>
-  <a href="https://expressjs.com/"><img src="https://skillicons.dev/icons?i=express" alt="Express.js"/></a>
-  <a href="https://socket.io/"><img src="https://skillicons.dev/icons?i=socketio" alt="Socket.IO"/></a>
-</p>
+<img src="https://skillicons.dev/icons?i=js,react,nodejs" alt="Core development technologies"/>
 
-### Cloud
-<p>
-  <a href="https://vercel.com/"><img src="https://skillicons.dev/icons?i=vercel" alt="Vercel"/></a>
-  <a href="https://railway.com/"><img src="https://skillicons.dev/icons?i=railway" alt="Railway"/></a>
-</p>
+<br/><br/>
 
-### AI / Database
-<p>
-  <a href="https://supabase.com/"><img src="https://skillicons.dev/icons?i=supabase" alt="Supabase"/></a>
-  <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python" alt="AI/ML with Python"/></a>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=soft&height=100&text=%3C%2F%3E&fontSize=48&fontColor=7dd3fc&color=0:171b31,100:24203d" alt="Code core"/>
 
-### Dev Tools
-<p>
-  <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" alt="Git"/></a>
-  <a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" alt="GitHub"/></a>
-  <a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode" alt="VS Code"/></a>
-</p>
+</td>
+<td width="66%" valign="middle">
+
+**`FRONTEND`**
+
+<img src="https://img.shields.io/badge/HTML5-1b2035?style=flat-square&logo=html5&logoColor=E34F26" alt="HTML5"/> <img src="https://img.shields.io/badge/JavaScript-1b2035?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript"/> <img src="https://img.shields.io/badge/React-1b2035?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/> <img src="https://img.shields.io/badge/Vite-1b2035?style=flat-square&logo=vite&logoColor=646CFF" alt="Vite"/> <img src="https://img.shields.io/badge/Tailwind_CSS-1b2035?style=flat-square&logo=tailwindcss&logoColor=06B6D4" alt="Tailwind CSS"/> <img src="https://img.shields.io/badge/React_Native-1b2035?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native"/>
+
+**`MOTION & 3D`**
+
+<img src="https://img.shields.io/badge/Framer_Motion-1b2035?style=flat-square&logo=framer&logoColor=BB4BFF" alt="Framer Motion"/> <img src="https://img.shields.io/badge/Three.js-1b2035?style=flat-square&logo=threedotjs&logoColor=FFFFFF" alt="Three.js"/> <img src="https://img.shields.io/badge/React_Three_Fiber-1b2035?style=flat-square&logo=react&logoColor=61DAFB" alt="React Three Fiber"/>
+
+**`BACKEND & INFRA`**
+
+<img src="https://img.shields.io/badge/Node.js-1b2035?style=flat-square&logo=nodedotjs&logoColor=5FA04E" alt="Node.js"/> <img src="https://img.shields.io/badge/Express.js-1b2035?style=flat-square&logo=express&logoColor=FFFFFF" alt="Express.js"/> <img src="https://img.shields.io/badge/Socket.IO-1b2035?style=flat-square&logo=socketdotio&logoColor=FFFFFF" alt="Socket.IO"/>
+
+**`AI, DATABASE & WORKFLOW`**
+
+<img src="https://img.shields.io/badge/Generative_AI-1b2035?style=flat-square&logo=openai&logoColor=7dd3fc" alt="Generative AI"/> <img src="https://img.shields.io/badge/Python-1b2035?style=flat-square&logo=python&logoColor=3776AB" alt="Python"/> <img src="https://img.shields.io/badge/Supabase-1b2035?style=flat-square&logo=supabase&logoColor=3FCF8E" alt="Supabase"/> <img src="https://img.shields.io/badge/Git-1b2035?style=flat-square&logo=git&logoColor=F05032" alt="Git"/> <img src="https://img.shields.io/badge/GitHub-1b2035?style=flat-square&logo=github&logoColor=FFFFFF" alt="GitHub"/>
+
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
