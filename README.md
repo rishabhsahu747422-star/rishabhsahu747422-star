@@ -126,7 +126,7 @@ AURA is a premium dark developer portfolio built around an AI/ML identity, inter
 
 **`AI, DATABASE & WORKFLOW`**
 
-<img src="https://img.shields.io/badge/Generative_AI-1b2035?style=flat-square&logo=openai&logoColor=7dd3fc" alt="Generative AI"/> <img src="https://img.shields.io/badge/Python-1b2035?style=flat-square&logo=python&logoColor=3776AB" alt="Python"/><img src="https://img.icons8.com/?size=96&id=bosfpvRzNOG8&format=png-1b2035?style=flat-square&logo=mongodb&logoColor=F05032" alt="MongoDB"/> <img src="https://img.shields.io/badge/Supabase-1b2035?style=flat-square&logo=supabase&logoColor=3FCF8E" alt="Supabase"/> <img src="https://img.shields.io/badge/Git-1b2035?style=flat-square&logo=git&logoColor=F05032" alt="Git"/> <img src="https://img.shields.io/badge/GitHub-1b2035?style=flat-square&logo=github&logoColor=FFFFFF" alt="GitHub"/>
+<img src="https://img.shields.io/badge/Generative_AI-1b2035?style=flat-square&logo=openai&logoColor=7dd3fc" alt="Generative AI"/> <img src="https://img.shields.io/badge/Python-1b2035?style=flat-square&logo=python&logoColor=3776AB" alt="Python"/><img src="https://img.shields.io/badge/MongoDB-1b2035?style=flat-square&logo=mongodb&logoColor=7dd3fc" alt="MongoDB"/> <img src="https://img.shields.io/badge/Supabase-1b2035?style=flat-square&logo=supabase&logoColor=3FCF8E" alt="Supabase"/> <img src="https://img.shields.io/badge/Git-1b2035?style=flat-square&logo=git&logoColor=F05032" alt="Git"/> <img src="https://img.shields.io/badge/GitHub-1b2035?style=flat-square&logo=github&logoColor=FFFFFF" alt="GitHub"/>
 
 </td>
 </tr>
