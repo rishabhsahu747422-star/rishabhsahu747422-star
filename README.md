@@ -1,199 +1,197 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Rishabh%20Sahu&fontAlign=50&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%2FML%20Enthusiast&descAlign=50&descAlignY=60&animation=twinkling&color=0:7dd3fc,100:7dd3fc" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=190&text=Rishabh%20Sahu&fontAlign=50&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%2FML%20Enthusiast&descAlign=50&descAlignY=60&animation=twinkling&color=0:7dd3fc,100:243b55" width="100%" alt="Rishabh Sahu"/>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=7DD3FC&center=true&vCenter=true&width=850&lines=Building+full-stack+web+experiences;Learning+AI%2FML+and+Generative+AI;Crafting+Nexora+%E2%80%94+a+real-time+communication+platform;Building+premium+developer+experiences+with+React+%26+JavaScript" alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=900&color=7DD3FC&center=true&vCenter=true&width=850&lines=Building+full-stack+web+experiences;Exploring+Generative+AI+and+Agentic+AI;Creating+real-time+products+with+React+and+Node.js" alt="Typing animation"/>
 
 <br/>
-
-<a href="https://github.com/rishabhsahu747422-star">
-  <img src="https://komarev.com/ghpvc/?username=rishabhsahu747422-star&label=Profile%20Views&color=7dd3fc&style=for-the-badge" alt="Profile views"/>
-</a>
-<a href="https://github.com/rishabhsahu747422-star?tab=followers">
-  <img src="https://img.shields.io/github/followers/rishabhsahu747422-star?label=Followers&style=for-the-badge&color=7dd3fc" alt="GitHub followers"/>
-</a>
-<a href="https://github.com/rishabhsahu747422-star">
-  <img src="https://img.shields.io/badge/Open%20to%20Work-7dd3fc?style=for-the-badge&logo=github&logoColor=050505" alt="Open to work"/>
-</a>
+<img src="https://komarev.com/ghpvc/?username=rishabhsahu747422-star&label=PROFILE%20VIEWS&color=7dd3fc&style=for-the-badge" alt="Profile views"/>
+<img src="https://img.shields.io/github/followers/rishabhsahu747422-star?label=FOLLOWERS&style=for-the-badge&color=7dd3fc" alt="Followers"/>
+<img src="https://img.shields.io/badge/OPEN%20TO-WORK-7dd3fc?style=for-the-badge&logo=github&logoColor=0b0f14" alt="Open to work"/>
 
 </div>
 
 ---
 
-## 👨‍💻 Who I Am
+## 👨‍💻 About Me
+
+I'm a B.Tech student specializing in Artificial Intelligence and Machine Learning, and a full-stack developer who enjoys building practical products — from real-time communication platforms to social and productivity experiences.
+
+- 💻 Focused on full-stack development with JavaScript, React, Node.js and Express.
+- 🧩 Interested in product engineering, real-time systems and thoughtful UI/UX.
+- 🤖 Exploring Generative AI, Agentic AI and DevOps.
+- 🎓 B.Tech AIML student, currently in 3rd year.
+- 🤝 Open to software development opportunities and meaningful collaborations.
 
 ```ts
 const rishabhSahu = {
-  title: "Full Stack Developer | AI/ML Enthusiast",
-
-  stack: {
-    languages: ["JavaScript", "Java", "Python"],
-    frontend: ["React", "Vite", "Tailwind CSS", "React Native"],
-    backend: ["Node.js", "Express.js", "Socket.IO"],
-    database: ["Supabase"],
-    cloud: ["Vercel", "Railway"],
-    ai: ["Generative AI", "AI/ML"],
-    tools: ["Git", "GitHub"]
-  },
-
-  launchedProjects: [
-    "Nexora",
-    "AURA"
-  ],
-
-  certifications: [],
-
-  status: "B.Tech AIML — 3rd Year",
-
-  openTo: "Full-time software development opportunities"
+  role: "Full Stack Developer",
+  learning: ["Generative AI", "Agentic AI", "DevOps"],
+  coreStack: ["JavaScript", "React", "Node.js", "Express.js"],
+  databases: ["MongoDB", "Supabase", "Redis"],
+  currentWork: ["Nexora", "FRAME", "VE Loop Rewards"],
+  education: "B.Tech — Artificial Intelligence & Machine Learning",
+  status: "Open to software development opportunities"
 };
 ```
 
-## 🚀 Featured Projects
+---
 
-### 01. Nexora — Real-Time Communication Platform
+## 💼 Experience
 
-Nexora is a Discord-inspired communication platform focused on a premium, original interface with real-time communication capabilities and a full-stack JavaScript architecture.
+### Full-Stack Development Intern — VE Loop Rewards
+**Project: User Profile & Admin Rewards Platform**
 
-<a href="https://github.com/rishabhsahu747422-star/Nexora">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rishabhsahu747422-star&repo=Nexora&theme=nord&title_color=7dd3fc&text_color=7dd3fc&icon_color=7dd3fc&border_color=7dd3fc" alt="Nexora repository card"/>
-</a>
+- Contributed to a full-stack user profile and rewards platform using the MERN stack.
+- Worked on authentication, profile management, wallet balances and transaction-ledger flows.
+- Implemented and tested backend features for XP, levels, achievements, referrals and withdrawals.
+- Worked on admin role-based access, audit logging, API security and application readiness.
+- Focused on maintainable backend structure, validation, testing and user experience.
 
-| Layer | Technology |
-|---|---|
-| Frontend | React, Vite, JavaScript/JSX, Tailwind CSS |
-| State & UI | Redux, React Router DOM, Framer Motion, Lucide React |
-| Backend | Node.js, Express.js, Socket.IO |
-| Database / Auth | Supabase |
-| Media / APIs | Multer, REST APIs |
-| Development | Git, GitHub |
-
-**[Code](https://github.com/rishabhsahu747422-star/Nexora)**
+**Technologies:** React, JavaScript, Node.js, Express.js, MongoDB, Mongoose, JWT, Bootstrap.
 
 ---
 
-### 02. AURA — AI/ML Developer Portfolio
+## 🚀 Featured Projects
 
-AURA is a premium dark developer portfolio built around an AI/ML identity, interactive 3D visuals, and a React-based modern frontend experience.
+<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<a href="https://github.com/rishabhsahu747422-star/aura-portfolio">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rishabhsahu747422-star&repo=aura-portfolio&theme=nord&title_color=7dd3fc&text_color=7dd3fc&icon_color=7dd3fc&border_color=7dd3fc" alt="AURA repository card"/>
-</a>
+### 01 · NEXORA
+**Real-Time Communication Platform**
 
-| Layer | Technology |
-|---|---|
-| Frontend | React, Vite, JavaScript, Tailwind CSS |
-| 3D / Visuals | React Three Fiber, Three.js |
-| Animation | Interactive 3D UI and motion effects |
-| Backend | Node.js, Nodemailer |
-| Deployment | Vercel, Railway |
-| Development | Git, GitHub |
+A full-stack communication experience with servers, channels, direct messages and real-time voice/video capabilities. Built with a distinct dark interface and custom interaction patterns.
 
-**[Live](https://port-folio-beige-three.vercel.app)** · **[Code](https://github.com/rishabhsahu747422-star/aura-portfolio)**
+<img src="https://skillicons.dev/icons?i=react,vite,tailwind,nodejs,express,mongodb,redis" alt="Nexora stack"/>
+
+<br/><br/>
+<a href="https://nexora-umber-nine.vercel.app">↗ <strong>Live Demo</strong></a> · <a href="https://github.com/rishabhsahu747422-star/Nexora">⌘ <strong>Source Code</strong></a>
+
+</td>
+<td width="50%" valign="top">
+
+### 02 · FRAME
+**Social Photography & Video Platform**
+
+A web-first social product for sharing photography, reels and stories, with collections, saved content and notifications. Designed around an editorial visual direction and a custom identity.
+
+<img src="https://skillicons.dev/icons?i=react,vite,tailwind,nodejs,express,mongodb" alt="FRAME stack"/>
+
+<br/><br/>
+<a href="https://frame-alpha-six.vercel.app">↗ <strong>Live Demo</strong></a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 03 · VE LOOP REWARDS
+**User Profile & Rewards Platform**
+
+A full-stack rewards application with user profiles, multi-wallet balances, XP and levels, achievements, referrals, withdrawals and admin controls. Built with an emphasis on security, testing and maintainability.
+
+<img src="https://skillicons.dev/icons?i=react,vite,bootstrap,nodejs,express,mongodb" alt="VE Loop stack"/>
+
+<br/><br/><em>Internship project</em>
+
+</td>
+<td width="50%" valign="top">
+
+### 04 · AURA
+**Interactive Developer Portfolio**
+
+A personal portfolio featuring a dark visual identity, interactive 3D elements and a modern React experience.
+
+<img src="https://skillicons.dev/icons?i=react,vite,tailwind,threejs" alt="AURA stack"/>
+
+<br/><br/>
+<a href="https://port-folio-beige-three.vercel.app">↗ <strong>Live Portfolio</strong></a>
+
+</td>
+</tr>
+</table>
+</div>
 
 ---
 
 ## 🛠️ Tech Stack
 
 <div align="center">
-
 <table>
 <tr>
 <td width="34%" align="center" valign="middle">
 
-<img src="https://skillicons.dev/icons?i=js,react,nodejs" alt="Core development technologies"/>
+### &lt; / &gt;
+**BUILD · LEARN · SHIP**
 
-<br/><br/>
+<img src="https://skillicons.dev/icons?i=js,react,nodejs,python" alt="Core development stack"/>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&height=100&text=%3C%2F%3E&fontSize=48&fontColor=7dd3fc&color=0:171b31,100:24203d" alt="Code core"/>
+<sub>Turning ideas into usable software</sub>
 
 </td>
 <td width="66%" valign="middle">
 
+**`LANGUAGES`**
+
+<img src="https://skillicons.dev/icons?i=js,java,python" alt="JavaScript, Java, Python"/>
+
 **`FRONTEND`**
 
-<img src="https://img.shields.io/badge/HTML5-1b2035?style=flat-square&logo=html5&logoColor=E34F26" alt="HTML5"/> <img src="https://img.shields.io/badge/JavaScript-1b2035?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript"/> <img src="https://img.shields.io/badge/React-1b2035?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/> <img src="https://img.shields.io/badge/Vite-1b2035?style=flat-square&logo=vite&logoColor=646CFF" alt="Vite"/> <img src="https://img.shields.io/badge/Tailwind_CSS-1b2035?style=flat-square&logo=tailwindcss&logoColor=06B6D4" alt="Tailwind CSS"/> <img src="https://img.shields.io/badge/React_Native-1b2035?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native"/>
+<img src="https://skillicons.dev/icons?i=react,vite,tailwind,bootstrap" alt="React, Vite, Tailwind CSS, Bootstrap"/>
 
-**`MOTION & 3D`**
+**`BACKEND & REAL-TIME`**
 
-<img src="https://img.shields.io/badge/Framer_Motion-1b2035?style=flat-square&logo=framer&logoColor=BB4BFF" alt="Framer Motion"/> <img src="https://img.shields.io/badge/Three.js-1b2035?style=flat-square&logo=threedotjs&logoColor=FFFFFF" alt="Three.js"/> <img src="https://img.shields.io/badge/React_Three_Fiber-1b2035?style=flat-square&logo=react&logoColor=61DAFB" alt="React Three Fiber"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,socketio" alt="Node.js, Express, Socket.IO"/>
 
-**`BACKEND & INFRA`**
+**`DATABASE & CLOUD`**
 
-<img src="https://img.shields.io/badge/Node.js-1b2035?style=flat-square&logo=nodedotjs&logoColor=5FA04E" alt="Node.js"/> <img src="https://img.shields.io/badge/Express.js-1b2035?style=flat-square&logo=express&logoColor=FFFFFF" alt="Express.js"/> <img src="https://img.shields.io/badge/Socket.IO-1b2035?style=flat-square&logo=socketdotio&logoColor=FFFFFF" alt="Socket.IO"/>
+<img src="https://skillicons.dev/icons?i=mongodb,redis,supabase,vercel" alt="MongoDB, Redis, Supabase, Vercel"/>
 
-**`AI, DATABASE & WORKFLOW`**
+**`AI, 3D & DEV TOOLS`**
 
-<img src="https://img.shields.io/badge/Generative_AI-1b2035?style=flat-square&logo=openai&logoColor=7dd3fc" alt="Generative AI"/> <img src="https://img.shields.io/badge/Python-1b2035?style=flat-square&logo=python&logoColor=3776AB" alt="Python"/> <img src="https://img.shields.io/badge/MongoDB-1b2035?style=flat-square&logo=mongodb&logoColor=7dd3fc" alt="MongoDB"/> <img src="https://img.shields.io/badge/Supabase-1b2035?style=flat-square&logo=supabase&logoColor=3FCF8E" alt="Supabase"/> <img src="https://img.shields.io/badge/Git-1b2035?style=flat-square&logo=git&logoColor=F05032" alt="Git"/> <img src="https://img.shields.io/badge/GitHub-1b2035?style=flat-square&logo=github&logoColor=FFFFFF" alt="GitHub"/>
+<img src="https://skillicons.dev/icons?i=python,threejs,git,github,vscode" alt="Python, Three.js, Git, GitHub, VS Code"/>
 
 </td>
 </tr>
 </table>
-
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Overview
 
 <div align="center">
 
 <a href="https://github.com/rishabhsahu747422-star">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=rishabhsahu747422-star&show_icons=true&theme=nord&hide_border=false&title_color=7dd3fc&text_color=7dd3fc&icon_color=7dd3fc&border_color=7dd3fc&rank_icon=github" alt="Rishabh's GitHub stats"/>
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=rishabhsahu747422-star&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&title_color=7dd3fc&icon_color=7dd3fc" alt="GitHub statistics"/>
 </a>
 <a href="https://github.com/rishabhsahu747422-star">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishabhsahu747422-star&layout=compact&theme=nord&hide_border=false&title_color=7dd3fc&text_color=7dd3fc&border_color=7dd3fc" alt="Top languages"/>
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishabhsahu747422-star&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&title_color=7dd3fc" alt="Most used languages"/>
 </a>
 
-</div>
-
-## 🔥 Streak Stats
-
-<div align="center">
-
-<a href="https://github.com/rishabhsahu747422-star">
-  <img src="https://streak-stats.demolab.com?user=rishabhsahu747422-star&theme=nord&hide_border=false&ring=7dd3fc&fire=7dd3fc&currStreakLabel=7dd3fc&sideLabels=7dd3fc&dates=7dd3fc&border=7dd3fc" alt="GitHub streak stats"/>
-</a>
+<br/>
+<img src="https://streak-stats.demolab.com/?user=rishabhsahu747422-star&theme=tokyonight&hide_border=true&ring=7dd3fc&fire=7dd3fc&currStreakLabel=7dd3fc" alt="GitHub streak"/>
+<br/>
+<img src="https://github-profile-trophy.vercel.app/?username=rishabhsahu747422-star&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=6" alt="GitHub trophies"/>
+<br/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rishabhsahu747422-star&bg_color=1a1b27&color=7dd3fc&line=7dd3fc&point=ffffff&area=true&hide_border=true" alt="Contribution activity graph"/>
 
 </div>
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=rishabhsahu747422-star&theme=nord&no-frame=true&no-bg=true&margin-w=8&column=7" alt="GitHub trophies"/>
-
-</div>
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rishabhsahu747422-star&bg_color=0f172a&color=7dd3fc&line=7dd3fc&point=7dd3fc&area=true&hide_border=false&border_color=7dd3fc" alt="Contribution activity graph"/>
-
-</div>
+> GitHub stats, streaks, trophies and activity graphs are served by external services. If a provider is temporarily unavailable or rate-limited, its image may not render. The links still take you to the relevant profile or project.
 
 ---
 
-## 🤝 Connect
+## 🤝 Connect With Me
 
 <div align="center">
-
-<a href="https://www.linkedin.com/in/rishabh-sahu-b93053386">
-  <img src="https://img.shields.io/badge/LinkedIn-7dd3fc?style=for-the-badge&logo=linkedin&logoColor=050505" alt="LinkedIn"/>
-</a>
-<a href="https://port-folio-beige-three.vercel.app">
-  <img src="https://img.shields.io/badge/Portfolio-7dd3fc?style=for-the-badge&logo=vercel&logoColor=050505" alt="Portfolio"/>
-</a>
-
+<a href="https://www.linkedin.com/in/rishabh-sahu-b93053386"><img src="https://img.shields.io/badge/LinkedIn-Connect-7dd3fc?style=for-the-badge&logo=linkedin&logoColor=0b0f14" alt="LinkedIn"/></a>
+<a href="https://port-folio-beige-three.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Explore-7dd3fc?style=for-the-badge&logo=vercel&logoColor=0b0f14" alt="Portfolio"/></a>
+<a href="https://github.com/rishabhsahu747422-star"><img src="https://img.shields.io/badge/GitHub-Follow-7dd3fc?style=for-the-badge&logo=github&logoColor=0b0f14" alt="GitHub"/></a>
 </div>
 
----
-
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&animation=twinkling&color=0:7dd3fc,100:7dd3fc" width="100%"/>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&animation=twinkling&color=0:243b55,100:7dd3fc" width="100%" alt="Footer"/>
 </div>
